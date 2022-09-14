@@ -1,2 +1,1 @@
-# odin-js-form-validation
-Odin Project - Javascript Form Validation
+# Odin Project Exercise - Javascript Form Validation
